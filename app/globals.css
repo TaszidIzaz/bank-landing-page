@@ -8,6 +8,8 @@ body{
   background: rgb(0, 0, 0);
 }
 
+@import 'locomotive-scroll/dist/locomotive-scroll.css';
+
 :root {
   --black-gradient: linear-gradient(
     144.39deg,
